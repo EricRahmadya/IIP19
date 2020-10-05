@@ -1,0 +1,41 @@
+informasi menjadi mahal. apabila mengetahui akan bisa mengikuti trend.
+topik
+tuangkan ide gagasa anda untuk oenerapan teknologi informasi
+dan komunikasidibidang perpustakaan dan lembaga informasi lainnya berikan
+juga alasan untung kebaikan dan kekurangan dari ide dan gagasan tersebut
+
+internet adalah koneksi antar net...jaringan yang terhubung dengan komputer gadget 
+yang berkolaborasi dengan komunikasi data(antar koneksi) terhubungnya gadget satu dengan lain
+
+asal usul cisco membuat protokol anatar kampus untuk riset agar bisa sharing.
+membutuhkan it atau alamat untuk terhubung
+
+ada 2
+alamat private untuk LAN local acces network/ internal org lain gabisa masuk kecuali didalam
+alamat ip publik, antar komputer didunia berbeda/unik yg sudah terdata di nama domain agar 
+alamat tidak tabrakan...nah penghubung antar ip publik itu internet
+ip publik biasa dipasang di router, server.
+LAN cukup 1 ip publik....lainnya ip share.
+ip publik sangat cepat karena direct. 
+
+www url http bertukar resource sgt ringan, di tanam di web server.
+
+jenis koneksi dr kabel sampe wireles
+
+ip publik ada di internet backbone
+ip private yang digunakan untuk share....warnet ip publik 1 lainnya share
+indihome awal2 ip publik sekarang rata2 ip share makanya lemot 
+
+url mengganti alamat publik agar security. atau alias alamat yg bisa dibaca browser.
+
+protokol transfer yang digunakan pengiriman info di internet. 
+
+dns sesuai nomenklatur, ac.id akademik .id goverment co.id corporation .org organisasi
+yg mengatur tersentral di PANDI
+
+proxy, firewall dsb adalah pertahanan untuk memilah paket masuk atau keluar
+
+
+
+
+

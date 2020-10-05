@@ -1,0 +1,30 @@
+information retrival adalah kegiatan memperoleh sumber daya sistem informasi yang relevan 
+dengan kebutuhan informasi dari kumpulan sumber daya tersebut. 
+Pencarian dapat didasarkan pada teks lengkap atau pengindeksan berbasis konten lainnya. 
+Information retrieval adalah ilmu mencari informasi dalam sebuah dokumen, mencari dokumen itu 
+sendiri, dan juga mencari metadata yang mendeskripsikan data, dan database teks, gambar atau 
+suara.
+Information Retrieval (IR) adalah menemukan bahan (biasanya dokumen) yang tidak terstruktur 
+(biasanya teks) yang memenuhi kebutuhan informasi dari dalam koleksi besar (biasanya disimpan di komputer)
+
+information seeking,adalah proses atau aktivitas yang mencoba mendapatkan informasi dgn konteks 2 hal manusia
+dan teknologi 
+seseorang atau user yang mencari informasi dgn teknologi
+
+informaton searching Suatu proses, yang dilakukan orang untuk mencari atau mengambil informasi 
+tertentu untuk memenuhi kebutuhan informasi, biasanya, tetapi tidak selalu dengan bantuan 
+mesin pencari atau sistem pengambilan informasi lainnya
+
+informasi behavior Konsep pencarian informasi, pencarian informasi, dan perilaku informasi 
+merupakan objek penelitian ilmu informasi. Dalam disiplin ilmu ini berbagai studi telah 
+dilakukan untuk menganalisis interaksi individu dengan sumber informasi dalam hal kebutuhan 
+informasi, tugas, dan konteks tertentu. Model penelitian yang dikembangkan dalam studi ini 
+bervariasi dalam tingkat cakupannya. Wilson (1999) oleh karena itu mengembangkan model 
+bersarang dari area konseptual, yang memvisualisasikan keterkaitan dari konsep sentral yang 
+disebutkan di sini.
+
+impressum data2 di dalam katalog seperti pengarang penertbit tahun kota dsb. 
+kolasi adalah informasi yg apabila buku ada akan menunjukan tinggi buku
+
+boolean logic, memperluas dan mempersempit pencarian
+

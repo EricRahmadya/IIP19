@@ -1,0 +1,29 @@
+membuat sistem dalam database
+
+database = manajemen data dr yg terkecil, mengorganisasi data, tata kelola data, kemuadian 
+retrieval kembali, kumpulan data yg terorganisir di suatu sistem data
+
+
+entyty = mahasiswa, mata kuliah, (sesuatu objek yg bisa dibedakan dgn yg lain)
+relasi = eric mengambil mata kuliah SIP101
+
+atribut = sesuatu yang menempel pd entiti, misal mahasiswa atributnya alamat, nim dsb, dijadikan 
+bahan pembeda
+
+contoh entitas = meja 
+atribut = bahan, warna, bentuk
+
+perpustakaan = user, pustakawan, buku, dsb
+
+relasi adalah hubungan antar entitas.
+
+ER
+ssn jadi primary key atau biasanya nomor serial digaris bawah.
+did jadi foreign key.
+
+cara buat tabel : primary key kedua entiti ditambah atribut relationship (sejak)
+
+one to many : 1 perusahaan banyak orang
+one to one : 1 orang 1 pekerjaan
+many to one : mahasiswa memilih 1 jurusan
+mny to many :

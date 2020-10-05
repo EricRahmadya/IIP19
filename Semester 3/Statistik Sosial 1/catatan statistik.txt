@@ -1,0 +1,30 @@
+statistik salah satu alat untuk menganalsis dan menginterpretasi data.
+statistik tradisional (hanya mengumpulkan data) dan modern (inferens)(mengolah menjelaskan dsb)
+
+metode statistik adalah ilmu pengetahuan yg meliputi segala metode guna mengumpulkan mengolah
+menyajikan dan menganalisis data kuantitatif scr deskriptif
+
+penelitian dr ketidaktahuan(bagaimana) dan keraguan(benarkah)
+
+sampel bebas hanya 1 kali dijadikan sampel. 
+
+estimasi, korelasi, prediksi, regresi, hipotesis
+
+syarat agar sampel bisa ditarik kesimpulan populasi
+1. varian atau eror
+2. mewakili (random sampling)
+
+statistik = data deskriptif data dr sampel
+data populasi = parameter
+
+estimasi = menambil kwaimpulan tingkat populasi berdasar data sampel
+jika t hitung lebih dari t tabel maka h0 ditolak h1 diterima dan sebaliknya
+
+
+
+
+
+
+
+
+
