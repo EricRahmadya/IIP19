@@ -1,0 +1,20 @@
+klasifikasi hampir sama seperti analisis subjek dengan perbedaan yaitu klasifikasi menggunkan
+alfa numerik.
+
+ddc ada beberapa versi dan edisi yang memiliki perbedaan notasi didalamnya
+DDC dibagi ke dalam 10 kelompok dengan menggunakan angka-angka persepuluhan
+000 – 099 komputer, informasi, Karya umum
+100 – 199 Filsafat dan psikologi
+200 – 299 Agama
+300 – 399 Ilmu Sosial
+400 – 499 Bahasa
+500 – 599 Ilmu pengetahuan murni
+600 – 699 Ilmu pengetahuan terapan/teknologi
+700 – 799 Seni, olahraga, hiburan
+800 – 899 Kesusasteraan
+900 – 999 Biografi ilmu bumi, sejarah
+
+ddc 1876 terbit
+
+ada beda, contoh psikologi 150.195 kalo psikiatri 616.891(dilihat dr kedokteran, pengobatan,dsb makanya masuk 600 series)
+
